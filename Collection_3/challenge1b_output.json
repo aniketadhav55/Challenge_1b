@@ -1,93 +1,93 @@
 {
   "metadata": {
     "input_documents": [
-      "ai.pdf",
-      "eticsai.pdf",
-      "ml.pdf"
+      "android.pdf",
+      "web.pdf",
+      "cloud.pdf"
     ],
-    "persona": "AI Student",
-    "job_to_be_done": "Tell me about Basics of AI",
-    "processing_timestamp": "2025-07-28T13:09:28.903554"
+    "persona": "Student",
+    "job_to_be_done": "Give Basic Concepts about Cloud",
+    "processing_timestamp": "2025-07-28T19:38:12.970349"
   },
   "extracted_sections": [
     {
-      "document": "ai.pdf",
-      "section_title": "Advantages of AI: Disadvantages of AI:",
+      "document": "cloud.pdf",
+      "section_title": "What is Cloud? What is Cloud Computing?",
       "importance_rank": 1,
-      "page_number": 2
+      "page_number": 1
     },
     {
-      "document": "ai.pdf",
-      "section_title": "AI ethics",
+      "document": "cloud.pdf",
+      "section_title": "Cloud Computing - Overview",
       "importance_rank": 2,
-      "page_number": 5
+      "page_number": 1
     },
     {
-      "document": "ai.pdf",
-      "section_title": "Types of AI: AI Domains Data  Science",
+      "document": "cloud.pdf",
+      "section_title": "Cloud Computing Infrastructure",
       "importance_rank": 3,
-      "page_number": 4
+      "page_number": 18
     },
     {
-      "document": "ml.pdf",
-      "section_title": "3. Machine Learning – Traditional AI",
+      "document": "cloud.pdf",
+      "section_title": "Cloud Computing-Technologies",
       "importance_rank": 4,
-      "page_number": 4
+      "page_number": 12
     },
     {
-      "document": "ai.pdf",
-      "section_title": "Artificial Intelligence",
+      "document": "cloud.pdf",
+      "section_title": "Cloud Computing-Architecture",
       "importance_rank": 5,
-      "page_number": 1
+      "page_number": 16
     },
     {
-      "document": "ai.pdf",
-      "section_title": "ARTIFICIAL INTELLIGENCE",
+      "document": "cloud.pdf",
+      "section_title": "Cloud Infrastructure Components",
       "importance_rank": 6,
-      "page_number": 1
+      "page_number": 18
     },
     {
-      "document": "ml.pdf",
-      "section_title": "2. Machine Learning – What Today’s AI Can Do?",
+      "document": "cloud.pdf",
+      "section_title": "Cloud Computing - Planning",
       "importance_rank": 7,
-      "page_number": 3
+      "page_number": 8
     }
   ],
   "subsection_analysis": [
     {
-      "document": "ai.pdf",
-      "refined_text": "AI -Artificial Intelligence (AI) Refers to any technique that enables computers to\nAdvantages of AI:\nIn our next chapter, we will learn what it takes to develop AI programs.\nDisadvantages of AI:\nThere are several applications of AI that we use practically today. In fact, each one of us",
-      "page_number": 2
-    },
-    {
-      "document": "ai.pdf",
-      "refined_text": "understand how decisions are made and the reasoning behind them. Providing explanations for AI\nAI Access\nvarious aspects of society, ethical considerations become paramount to ensure that AI systems are\nARTIFICIAL INTELLIGENCE\nARTIFICIAL INTELLIGENCE",
-      "page_number": 5
-    },
-    {
-      "document": "ai.pdf",
-      "refined_text": "Types of AI:\nrole in AI by providing the foundation for creating models and algorithms. It involves collecting, cleaning,\nit is used for developing such complex AI applications.\ntechniques used by the early AI programs.\nAI without scaring you of the vastness that AI demands. If you are developing AI",
-      "page_number": 4
-    },
-    {
-      "document": "ml.pdf",
-      "refined_text": "AI ethics\nSome of the examples of statistical techniques that are used for developing AI applications\nGeneral AI - General AI, also known as Strong AI or Artificial General Intelligence (AGI), refers to AI systems\nadaptability of human beings. Researchers are continuously working on developing more advanced AI\napplied in developing so-called AI programs. We say ―so-called‖ because the AI programs",
-      "page_number": 4
-    },
-    {
-      "document": "ai.pdf",
-      "refined_text": "AI refers to the ability of machines to perform cognitive tasks like thinking, perceiving, learning, problem\nIn simple terms, we can define AI as a machine that can simulate human thought\nalso means that AI based computer would be able to make a decision in a given\nsolving and decision making. Initially conceived as a technology that could mimic human intelligence, AI\n1.  Automation: AI enables the automation of repetitive and mundane tasks, freeing up human resources to",
+      "document": "cloud.pdf",
+      "refined_text": "What is Cloud?\nWhat is Cloud Computing?\nCloud Computing - Overview\nThe term Cloud refers to a Network or Internet . In other words, we can say that Cloud is something, which is\nThere are certain services and models working behind the scene making the cloud computing feasible and",
       "page_number": 1
     },
     {
-      "document": "ai.pdf",
-      "refined_text": "Artificial Intelligence\nSome common examples of AI applications that you might encounter in your surroundings:\n7.  Finance: In the financial sector, AI is employed for fraud detection, algorithmic trading, credit scoring,\nCortana utilize AI to understand and respond to voice commands, perform tasks, answer questions, and\n3.  Social Media: AI algorithms are employed by social media platforms like Facebook, Twitter, and Instagram",
+      "document": "cloud.pdf",
+      "refined_text": "Cloud Computing refers to manipulating, configuring, and accessing the applications online. It offers online\nDeployment models define the type of access to the cloud, i.e., how the cloud is located? Cloud can have any of\nThe Hybrid Cloud is mixture of public and private cloud. However, the critical activities are performed using\nprivate cloud while the non-critical activities are performed using public cloud.\naccessible to end users. Following are the working models for cloud computing:",
       "page_number": 1
     },
     {
-      "document": "ml.pdf",
-      "refined_text": "3. Machine Learning – Traditional AI\nuse AI in many parts of our lives, even without our knowledge. Today‘s AI can perform\ncommands by humans, and also do other tasks. The AI-enabled machines\nis intermediately intelligent and Artificial Intelligence covers all the concepts and algorithms which, in\ncomplex task to understand what capabilities are expected in an AI application that you",
-      "page_number": 3
+      "document": "cloud.pdf",
+      "refined_text": "Cloud Infrastructure Components\nsingle physical instance of cloud resources between several tenants.\nFundamental constraints that cloud infrastructure should implement are shown in the following diagram:\nNetwork is the key component of cloud infrastructure. It allows to connect cloud services over the Internet. It is\nSince virtualization is the key to share resources in cloud environment. But it is not possible to satisfy the demand",
+      "page_number": 18
+    },
+    {
+      "document": "cloud.pdf",
+      "refined_text": "cloud_computing-service_oriented_architecture\nVirtualization is a technique, which allows to share single physical instance of an application or resource among\nVirtualization\nVirtualization\nService-Oriented Architecture(SOA)",
+      "page_number": 12
+    },
+    {
+      "document": "cloud.pdf",
+      "refined_text": "view of cloud computing architecture:\nCloud Computing architecture comprises of many cloud components, each of them are loosely coupled. We\nBack End refers to the cloud itself. It consists of all the resources required to provide cloud computing services. It\ncan broadly divide the cloud architecture into two parts:\nFront End refers to the client part of cloud computing system. It consists of interfaces and applications that are",
+      "page_number": 16
+    },
+    {
+      "document": "cloud.pdf",
+      "refined_text": "Cloud Computing Infrastructure\nCloud uses distributed file system for storage purpose. If one of the storage resource fails, then it can be extracted\nfrom another one which makes cloud computing more reliable.\nDeployment software helps to deploy and integrate the application on the cloud.\ninfrastructure consists of servers, storage, network, management software, and deployment software and",
+      "page_number": 18
+    },
+    {
+      "document": "cloud.pdf",
+      "refined_text": "Type of cloud - public, private or hybrid\nto cloud. Each of these planning phases are described in the following diagram:\nCLOUD COMPUTING VALUE PROPOSITION\nCloud Computing Value Proposition\nCloud Computing Strategy Planning",
+      "page_number": 8
     }
   ]
 }

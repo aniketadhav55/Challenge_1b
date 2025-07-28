@@ -1,94 +1,94 @@
 {
   "metadata": {
     "input_documents": [
-      "html.pdf",
-      "nodejs.pdf",
-      "javascript.pdf",
-      "cssnew.pdf"
+      "Java.pdf",
+      "Kotlin.pdf",
+      "Python.pdf",
+      "C++.pdf"
     ],
-    "persona": "web developer",
-    "job_to_be_done": "what is html",
-    "processing_timestamp": "2025-07-28T13:35:14.904093"
+    "persona": "Programmer",
+    "job_to_be_done": "Tell me About Basic Syntax of Programming",
+    "processing_timestamp": "2025-07-28T14:22:57.483224"
   },
   "extracted_sections": [
     {
-      "document": "html.pdf",
-      "section_title": "HTML Tags",
+      "document": "C++.pdf",
+      "section_title": "3 . BASIC SYNTAX",
       "importance_rank": 1,
-      "page_number": 2
+      "page_number": 7
     },
     {
-      "document": "html.pdf",
-      "section_title": "HTML  Basics",
+      "document": "Kotlin.pdf",
+      "section_title": "Introduction Syntax Parameters Examples",
       "importance_rank": 2,
-      "page_number": 1
+      "page_number": 14
     },
     {
-      "document": "html.pdf",
-      "section_title": "Objectives: Prerequisites: What is an html File?",
+      "document": "Kotlin.pdf",
+      "section_title": "Syntax Remarks",
       "importance_rank": 3,
-      "page_number": 1
+      "page_number": 9
     },
     {
-      "document": "html.pdf",
-      "section_title": "Basic HTML Tags",
+      "document": "Python.pdf",
+      "section_title": "Chapter 4 Basic Python Programming",
       "importance_rank": 4,
       "page_number": 4
     },
     {
-      "document": "html.pdf",
-      "section_title": "Other HTML Tags",
+      "document": "Python.pdf",
+      "section_title": "Python Programming",
       "importance_rank": 5,
-      "page_number": 6
+      "page_number": 1
     },
     {
-      "document": "html.pdf",
-      "section_title": "HTML Images",
+      "document": "Python.pdf",
+      "section_title": "Chapter 5 Python Programming",
       "importance_rank": 6,
-      "page_number": 13
+      "page_number": 12
     },
     {
-      "document": "html.pdf",
-      "section_title": "HTML Links",
+      "document": "Python.pdf",
+      "section_title": "Part II Python Programming",
       "importance_rank": 7,
-      "page_number": 12
+      "page_number": 11
     }
   ],
   "subsection_analysis": [
     {
-      "document": "html.pdf",
-      "refined_text": "What are HTML tags?\nHTML tags are used to mark-up HTML elements\n<html>\nA good way to learn HTML is to look at how other people have coded their html pages. To find out,\nof an HTML document. Most commonly, CSS is combined with the markup languages HTML",
-      "page_number": 2
+      "document": "C++.pdf",
+      "refined_text": "4.  The line int main() is the main function where program execution begins.\nC++ Program Structure :\n3.  The next line ‘ // main() is where program execution begins.’ is a\nJAVA for Beginners\nJAVA for Beginners",
+      "page_number": 7
     },
     {
-      "document": "html.pdf",
-      "refined_text": "HTML is a format that tells a computer how to display a web page. The documents themselves are\nWhat is an html File?\nHTML stands for Hyper Text Markup Language\nHTML Tags\nAn HTML file is a text file containing small markup tags",
-      "page_number": 1
+      "document": "Kotlin.pdf",
+      "refined_text": "kind of programming language). Below you will see different examples how you\nSyntax\nA For loop is used for iterating over a sequence. I guess all your programs will\nThe main thing to remember about nested if s in Java is that an else statement always refers to the\nelse a = c; // this else refers to if(k > 100)",
+      "page_number": 14
     },
     {
-      "document": "html.pdf",
-      "refined_text": "HTML  Basics\n(HTML). HTML is the building block for web pages. You will learn to use HTML to author an HTML page\nOne thing you should avoid using is a word processor (like Microsoft Word) for authoring your HTML\nHTM or HTML Extension?\nDeveloping simple Web Pages using HTML or XHTML.",
-      "page_number": 1
+      "document": "Kotlin.pdf",
+      "refined_text": "The following simple programs, illustrate how to avoid programming errors by taking care where to\nCode\nWhenever we write an IF statement or a loop, if there is more than one statement of code which has\nidentifiers.  C++  is  a  case-sensitive  programming  language.\nBlocks of Code",
+      "page_number": 9
     },
     {
-      "document": "html.pdf",
-      "refined_text": "Defines an HTML document\nThe most important tags in HTML are tags that define headings, paragraphs and line breaks.\nMicrosoft FrontPage: Microsoft has developed a popular HTML editor called\nfor all the HTML tags.\nallows you to build interactivity into otherwise static HTML pages.",
+      "document": "Python.pdf",
+      "refined_text": "Basic Python Programming\nprogramming language. Reason is very simple, we have already set up C++\ncompiler. So just make use of it and enjoy your learning.\nWe will start using Python and create some code examples.\nC++ Compiler:",
       "page_number": 4
     },
     {
-      "document": "html.pdf",
-      "refined_text": "old html.</p>\n</html>\n</html>\nthe <script>... </script> HTML tags in a web page.\nThe most common character entity in HTML is the non-breaking space &nbsp; . Normally HTML will",
-      "page_number": 6
+      "document": "Python.pdf",
+      "refined_text": "illustrates various examples of code while the second part goes into more detail.\nbasic to advanced concepts related to C++.\nof computer program and computer programming language.\nlike to learn the Java programming language.\nObject-Oriented Programming",
+      "page_number": 1
     },
     {
-      "document": "html.pdf",
-      "refined_text": "writing our Embedded CSS in an HTML document. The following snippet shows how to use\n<p>This is web page body </p>\nIn the following section, we will see how we can place JavaScript in an HTML file in\none folder up from the html document that called\nFollowing is the example showing you how to import a style sheet file into an HTML document:",
-      "page_number": 13
-    },
-    {
-      "document": "html.pdf",
-      "refined_text": "HTML Images\neditor and plain old html.</p>\nHTML uses the <a> anchor tag to create a link to another document or web page.\n<p>By learning html, I'll be able to create web pages like a pro. ...<br>\n├── escape-html@1.0.1",
+      "document": "Python.pdf",
+      "refined_text": "We have been through the basics in Python, such as variables, using some basic\nProgram comments are explanatory statements that you can include in the C++\ncode. These comments help anyone reading the source code. All programming\nWhile writing program in any language, you need to use various variables to\nPython Programming",
       "page_number": 12
+    },
+    {
+      "document": "Python.pdf",
+      "refined_text": "these features built-in, but the syntax is slightly different from one language to\ntures should be familiar and known to you. All programming languages has\nBasic examples\nAn ”if statement” is written by using the if keyword.\nenables the compiler to identify where one element in a statement, such as int,",
+      "page_number": 11
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
     "challenge_info": {
         "challenge_id": "Round1b",
-        "test_case_name": "Artificial Intelligence",
-        "description": "learn about the basics of AI and its applications in programming languages"
+        "test_case_name": "Domains",
+        "description": "Domain Knowledge"
     },
     "documents": [
         {
-            "filename": "ai.pdf",
-            "title": "Artificial Intelligence"
+            "filename": "android.pdf",
+            "title": "Android Development"
         },
         {
-            "filename": "eticsai.pdf",
-            "title": "AI Ethics"
+            "filename": "web.pdf",
+            "title": "Web Development"
         },
         {
-            "filename": "ml.pdf",
-            "title": "Machine Learning"
+            "filename": "cloud.pdf",
+            "title": "Cloud Computing"
         }
     ],
     "persona": {
-        "role": "AI Student"
+        "role": "Student"
     },
     "job_to_be_done": {
-        "task": "Tell me about Basics of AI"
+        "task": "Give Basic Concepts about Cloud"
     }
 }
