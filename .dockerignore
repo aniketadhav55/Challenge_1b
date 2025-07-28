@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pdf
+*.json
+*.csv
+.venv/
+# *.joblib
+*.log
+output/
+input/
+Collection_1a/
+
+# __pycache__/
+# *.pyc
+# *.pkl
+# *.csv
+# *.log
+# output/
+# input/
+# .venv/
+# Collection_1a/

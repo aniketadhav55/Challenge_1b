@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "Round1b",
+        "test_case_name": "Sport",
+        "description": "Learn About Sports"
+    },
+    "documents": [
+        {
+            "filename": "cricket.pdf",
+            "title": "Cricket"
+        },
+        {
+            "filename": "football.pdf",
+            "title": "FootBall"
+        },
+        {
+            "filename": "hockey.pdf",
+            "title": "Hockey"
+        }
+    ],
+    "persona": {
+        "role": "Sport Person"
+    },
+    "job_to_be_done": {
+        "task": "tell me common rules of sports"
+    }
+}

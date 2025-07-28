@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "Round1b",
+        "test_case_name": "Artificial Intelligence",
+        "description": "learn about the basics of AI and its applications in programming languages"
+    },
+    "documents": [
+        {
+            "filename": "ai.pdf",
+            "title": "Artificial Intelligence"
+        },
+        {
+            "filename": "eticsai.pdf",
+            "title": "AI Ethics"
+        },
+        {
+            "filename": "ml.pdf",
+            "title": "Machine Learning"
+        }
+    ],
+    "persona": {
+        "role": "AI Student"
+    },
+    "job_to_be_done": {
+        "task": "Tell me about Basics of AI"
+    }
+}

@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+
+
+
+
+# Docker artifacts
+output/
+input/
+*.tar
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+
+

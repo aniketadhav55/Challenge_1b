@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "input_documents": [
+      "html.pdf",
+      "nodejs.pdf",
+      "javascript.pdf",
+      "cssnew.pdf"
+    ],
+    "persona": "web developer",
+    "job_to_be_done": "what is html",
+    "processing_timestamp": "2025-07-28T13:35:14.904093"
+  },
+  "extracted_sections": [
+    {
+      "document": "html.pdf",
+      "section_title": "HTML Tags",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "html.pdf",
+      "section_title": "HTML  Basics",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "html.pdf",
+      "section_title": "Objectives: Prerequisites: What is an html File?",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "html.pdf",
+      "section_title": "Basic HTML Tags",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "html.pdf",
+      "section_title": "Other HTML Tags",
+      "importance_rank": 5,
+      "page_number": 6
+    },
+    {
+      "document": "html.pdf",
+      "section_title": "HTML Images",
+      "importance_rank": 6,
+      "page_number": 13
+    },
+    {
+      "document": "html.pdf",
+      "section_title": "HTML Links",
+      "importance_rank": 7,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "html.pdf",
+      "refined_text": "What are HTML tags?\nHTML tags are used to mark-up HTML elements\n<html>\nA good way to learn HTML is to look at how other people have coded their html pages. To find out,\nof an HTML document. Most commonly, CSS is combined with the markup languages HTML",
+      "page_number": 2
+    },
+    {
+      "document": "html.pdf",
+      "refined_text": "HTML is a format that tells a computer how to display a web page. The documents themselves are\nWhat is an html File?\nHTML stands for Hyper Text Markup Language\nHTML Tags\nAn HTML file is a text file containing small markup tags",
+      "page_number": 1
+    },
+    {
+      "document": "html.pdf",
+      "refined_text": "HTML  Basics\n(HTML). HTML is the building block for web pages. You will learn to use HTML to author an HTML page\nOne thing you should avoid using is a word processor (like Microsoft Word) for authoring your HTML\nHTM or HTML Extension?\nDeveloping simple Web Pages using HTML or XHTML.",
+      "page_number": 1
+    },
+    {
+      "document": "html.pdf",
+      "refined_text": "Defines an HTML document\nThe most important tags in HTML are tags that define headings, paragraphs and line breaks.\nMicrosoft FrontPage: Microsoft has developed a popular HTML editor called\nfor all the HTML tags.\nallows you to build interactivity into otherwise static HTML pages.",
+      "page_number": 4
+    },
+    {
+      "document": "html.pdf",
+      "refined_text": "old html.</p>\n</html>\n</html>\nthe <script>... </script> HTML tags in a web page.\nThe most common character entity in HTML is the non-breaking space &nbsp; . Normally HTML will",
+      "page_number": 6
+    },
+    {
+      "document": "html.pdf",
+      "refined_text": "writing our Embedded CSS in an HTML document. The following snippet shows how to use\n<p>This is web page body </p>\nIn the following section, we will see how we can place JavaScript in an HTML file in\none folder up from the html document that called\nFollowing is the example showing you how to import a style sheet file into an HTML document:",
+      "page_number": 13
+    },
+    {
+      "document": "html.pdf",
+      "refined_text": "HTML Images\neditor and plain old html.</p>\nHTML uses the <a> anchor tag to create a link to another document or web page.\n<p>By learning html, I'll be able to create web pages like a pro. ...<br>\n├── escape-html@1.0.1",
+      "page_number": 12
+    }
+  ]
+}

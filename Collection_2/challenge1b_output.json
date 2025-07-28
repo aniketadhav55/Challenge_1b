@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "input_documents": [
+      "cricket.pdf",
+      "football.pdf",
+      "hockey.pdf"
+    ],
+    "persona": "Sport Person",
+    "job_to_be_done": "tell me common rules of sports",
+    "processing_timestamp": "2025-07-28T13:03:40.248598"
+  },
+  "extracted_sections": [
+    {
+      "document": "football.pdf",
+      "section_title": "Football – Rules & Regulations",
+      "importance_rank": 1,
+      "page_number": 13
+    },
+    {
+      "document": "football.pdf",
+      "section_title": "5.  Football – Popular Terms",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "cricket.pdf",
+      "section_title": "CRICKET – FORMATS",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "football.pdf",
+      "section_title": "7.  Football – How to Play?",
+      "importance_rank": 4,
+      "page_number": 12
+    },
+    {
+      "document": "football.pdf",
+      "section_title": "1.  Football – Overview",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "cricket.pdf",
+      "section_title": "CRICKET – TOURNAMENTS",
+      "importance_rank": 6,
+      "page_number": 15
+    },
+    {
+      "document": "football.pdf",
+      "section_title": "4.  Football – Equipment",
+      "importance_rank": 7,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "football.pdf",
+      "refined_text": "Listed here are some of the major rules and regulations of the game.\nprofessional cricket in this chapter and few rules about them.\nLet’s also understand the rules of the game that are to be followed while playing the game.\ncricket. Over the years, this format also went through drastic changes in rules and\nCRICKET – FORMATS",
+      "page_number": 13
+    },
+    {
+      "document": "football.pdf",
+      "refined_text": "This chapter explains all the popular terms used at play. Some of these are important rules\nFoul : A term used to describe the breach of the laws of Football by a player and this can be\ngame, ball and players all conform to the rules of the game. There are two assistant referees\nways. Bowled, Caught, Run-out, LBW, and Stumped are the most common\nFootball",
+      "page_number": 8
+    },
+    {
+      "document": "cricket.pdf",
+      "refined_text": "Football – Rules & Regulations\nOffside offence is one of the most important rule to follow in Football. It is basically designed\nskates while playing the game. A ball is used to play and the equipment used by goal\nThe rules of penalty kick : A chance for penalty kick arises when a defending team player\na)  Physically hurting a player by kicking intentionally.",
+      "page_number": 13
+    },
+    {
+      "document": "football.pdf",
+      "refined_text": "the ball and the opponent. You have to be a team player and an individual contributor at the\nField Hockey\nin various forms such as Ice hockey, Sledge Hockey, and Roller Hockey. The objective of\n1.  Manual and electronic scoring is done during the match to avoid any errors.\nHockey",
+      "page_number": 12
+    },
+    {
+      "document": "football.pdf",
+      "refined_text": "government organization to recognize the sport. Hence, specific rules of the game were\nfitness and athleticism to play. The sport is played between two teams of 11\nthe field with the ball throughout the game. The name of the sport was derived by the way it\ngradually became popular across the globe. This sport requires complete physical\nFederation governs the sport all over the globe. Men and women represent in competitions",
+      "page_number": 3
+    },
+    {
+      "document": "cricket.pdf",
+      "refined_text": "involved in the game. Players and umpires are key to popularize the sport over\nThe following table illustrates the domestic tournaments with respect to country\nevents at the domestic level. The domestic level matches are also played as one-\nCricket\nCricket",
+      "page_number": 15
+    },
+    {
+      "document": "football.pdf",
+      "refined_text": "5.  Football – Popular Terms\nFootball involves a lot of running around the field with the ball. The players also don’t require\ndoing a somersault. The player has both his feet off the ground and kicks the ball\nthe ball and tackling the situation.\nAs cricket is a game of bat and ball, the players are subjected to wear protective",
+      "page_number": 7
+    }
+  ]
+}
